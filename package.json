@@ -2,7 +2,7 @@
   "name": "webpack-demo",
   "version": "1.0.0",
   "description": "根据https://www.webpackjs.com/guides/，学习webpack",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
